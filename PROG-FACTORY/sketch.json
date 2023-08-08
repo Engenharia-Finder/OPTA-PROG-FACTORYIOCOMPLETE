@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:mbed_opta:opta:split=100_0,target_core=cm7",
+    "name": "Opta",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
